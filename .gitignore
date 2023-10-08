@@ -1,0 +1,11 @@
+# 排除所有文件
+*
+
+# 取消排除以 .bashrc 结尾的文件
+!*.bashrc
+!.shells
+
+# 取消排除
+!.gitignore
+!README.md
+!LICENSE
